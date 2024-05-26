@@ -1,0 +1,751 @@
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Spinning Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'cash', 83, to_date('09-01-2024', 'dd-mm-yyyy'), 971707781);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Injuries', 'coupon', 23, to_date('05-02-2024', 'dd-mm-yyyy'), 301956654);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'High Blood Pressure', 'cash', 38, to_date('27-04-2024', 'dd-mm-yyyy'), 186971826);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Body Sculpt Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'cash', 69, to_date('12-05-2024', 'dd-mm-yyyy'), 328828217);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'cash', 88, to_date('16-01-2024', 'dd-mm-yyyy'), 573776102);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'High Blood Pressure', 'coupon', 33, to_date('15-01-2024', 'dd-mm-yyyy'), 285817671);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'Full Health', 'cash', 33, to_date('21-01-2024', 'dd-mm-yyyy'), 860618977);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'coupon', 59, to_date('20-03-2024', 'dd-mm-yyyy'), 853980163);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Zumba  Mon-Wed Zumba ', 'Full Health', 'credit card', 55, to_date('18-05-2024', 'dd-mm-yyyy'), 287056883);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Zumba  Mon-Wed Cardio', 'Full Health', 'cash', 49, to_date('08-05-2024', 'dd-mm-yyyy'), 89807477);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Heart Disease', 'cash', 92, to_date('09-02-2024', 'dd-mm-yyyy'), 583370421);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Zumba ', 'Full Health', 'credit card', 33, to_date('23-05-2024', 'dd-mm-yyyy'), 415774413);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'credit card', 60, to_date('13-01-2024', 'dd-mm-yyyy'), 325851770);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 83, to_date('16-01-2024', 'dd-mm-yyyy'), 410879352);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'Injuries', 'credit card', 56, to_date('30-03-2024', 'dd-mm-yyyy'), 166690748);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'cash', 92, to_date('05-04-2024', 'dd-mm-yyyy'), 804361204);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Lift-Tone', 'Injuries', 'coupon', 47, to_date('02-02-2024', 'dd-mm-yyyy'), 835544906);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'credit card', 56, to_date('03-05-2024', 'dd-mm-yyyy'), 947865125);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Cardio', 'Injuries', 'cash', 27, to_date('06-02-2024', 'dd-mm-yyyy'), 110775613);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Lift-Tone', 'Injuries', 'credit card', 27, to_date('02-04-2024', 'dd-mm-yyyy'), 694288312);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'High Blood Pressure', 'coupon', 78, to_date('15-03-2024', 'dd-mm-yyyy'), 738103812);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Heart Disease', 'coupon', 72, to_date('20-03-2024', 'dd-mm-yyyy'), 965564108);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Body Sculpt', 'Injuries', 'coupon', 68, to_date('06-01-2024', 'dd-mm-yyyy'), 366207701);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Spinning', 'High Blood Pressure', 'coupon', 52, to_date('06-03-2024', 'dd-mm-yyyy'), 328947614);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Pilates', 'Injuries', 'cash', 45, to_date('05-03-2024', 'dd-mm-yyyy'), 273730719);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'High Blood Pressure', 'coupon', 24, to_date('13-02-2024', 'dd-mm-yyyy'), 359987794);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Spinning Mon-Wed Cardio', 'Heart Disease', 'cash', 42, to_date('19-04-2024', 'dd-mm-yyyy'), 109184345);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 17, to_date('01-03-2024', 'dd-mm-yyyy'), 883305631);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'High Blood Pressure', 'credit card', 48, to_date('24-04-2024', 'dd-mm-yyyy'), 544689165);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Lift-Tone', 'Heart Disease', 'credit card', 95, to_date('25-04-2024', 'dd-mm-yyyy'), 948674690);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'cash', 51, to_date('16-02-2024', 'dd-mm-yyyy'), 817956644);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'High Blood Pressure', 'credit card', 33, to_date('26-03-2024', 'dd-mm-yyyy'), 287056883);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Heart Disease', 'credit card', 63, to_date('29-03-2024', 'dd-mm-yyyy'), 857771070);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Cardio Mon-Wed Cardio', 'Heart Disease', 'credit card', 75, to_date('17-04-2024', 'dd-mm-yyyy'), 652621999);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'High Blood Pressure', 'coupon', 80, to_date('15-01-2024', 'dd-mm-yyyy'), 681776145);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Cardio Mon-Wed Lift-Tone', 'Heart Disease', 'cash', 76, to_date('07-02-2024', 'dd-mm-yyyy'), 666627230);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'Injuries', 'credit card', 34, to_date('17-02-2024', 'dd-mm-yyyy'), 552269406);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Zumba ', 'High Blood Pressure', 'coupon', 86, to_date('10-05-2024', 'dd-mm-yyyy'), 948674690);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed Pilates', 'High Blood Pressure', 'cash', 53, to_date('08-02-2024', 'dd-mm-yyyy'), 486610639);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'Injuries', 'cash', 66, to_date('21-05-2024', 'dd-mm-yyyy'), 642238011);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'credit card', 29, to_date('02-05-2024', 'dd-mm-yyyy'), 325260082);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Heart Disease', 'cash', 40, to_date('08-04-2024', 'dd-mm-yyyy'), 321751750);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'Injuries', 'cash', 47, to_date('24-01-2024', 'dd-mm-yyyy'), 572457673);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'Full Health', 'cash', 40, to_date('27-01-2024', 'dd-mm-yyyy'), 321569191);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'High Blood Pressure', 'credit card', 34, to_date('18-04-2024', 'dd-mm-yyyy'), 455203976);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Spinning Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'coupon', 73, to_date('10-02-2024', 'dd-mm-yyyy'), 381474529);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Injuries', 'cash', 58, to_date('30-04-2024', 'dd-mm-yyyy'), 144149414);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Full Health', 'coupon', 26, to_date('29-02-2024', 'dd-mm-yyyy'), 121399588);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Injuries', 'cash', 84, to_date('20-03-2024', 'dd-mm-yyyy'), 921773204);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Body Sculpt', 'Full Health', 'coupon', 55, to_date('25-02-2024', 'dd-mm-yyyy'), 325851770);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed ''HIIT', 'High Blood Pressure', 'coupon', 98, to_date('14-03-2024', 'dd-mm-yyyy'), 89807477);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 15, to_date('23-05-2024', 'dd-mm-yyyy'), 725658881);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'High Blood Pressure', 'cash', 19, to_date('05-01-2024', 'dd-mm-yyyy'), 998544947);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'cash', 82, to_date('04-03-2024', 'dd-mm-yyyy'), 88847666);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'Injuries', 'coupon', 16, to_date('07-02-2024', 'dd-mm-yyyy'), 891395919);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Pilates', 'Full Health', 'credit card', 56, to_date('19-02-2024', 'dd-mm-yyyy'), 347409056);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed Pilates', 'Heart Disease', 'cash', 16, to_date('30-03-2024', 'dd-mm-yyyy'), 144114535);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Spinning Mon-Wed Cardio', 'High Blood Pressure', 'credit card', 39, to_date('13-03-2024', 'dd-mm-yyyy'), 780381836);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'High Blood Pressure', 'coupon', 78, to_date('28-03-2024', 'dd-mm-yyyy'), 950590951);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Spinning', 'Full Health', 'coupon', 29, to_date('10-05-2024', 'dd-mm-yyyy'), 157283500);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'High Blood Pressure', 'coupon', 54, to_date('22-04-2024', 'dd-mm-yyyy'), 568076166);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'Full Health', 'cash', 53, to_date('29-03-2024', 'dd-mm-yyyy'), 451950079);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Pilates Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'coupon', 63, to_date('11-02-2024', 'dd-mm-yyyy'), 298337319);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'cash', 47, to_date('10-03-2024', 'dd-mm-yyyy'), 449079582);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Full Health', 'cash', 70, to_date('26-03-2024', 'dd-mm-yyyy'), 38829226);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'cash', 33, to_date('23-04-2024', 'dd-mm-yyyy'), 217984194);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Heart Disease', 'cash', 74, to_date('02-01-2024', 'dd-mm-yyyy'), 366187765);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue HIIT Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'coupon', 27, to_date('14-02-2024', 'dd-mm-yyyy'), 602155382);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Full Health', 'cash', 81, to_date('10-02-2024', 'dd-mm-yyyy'), 544689165);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 85, to_date('11-03-2024', 'dd-mm-yyyy'), 358254239);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'cash', 33, to_date('18-02-2024', 'dd-mm-yyyy'), 394750974);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'Heart Disease', 'cash', 59, to_date('19-03-2024', 'dd-mm-yyyy'), 666627230);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Heart Disease', 'cash', 44, to_date('06-05-2024', 'dd-mm-yyyy'), 728518006);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Body Sculpt', 'Heart Disease', 'credit card', 22, to_date('21-04-2024', 'dd-mm-yyyy'), 136943451);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'High Blood Pressure', 'coupon', 24, to_date('21-03-2024', 'dd-mm-yyyy'), 961698561);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Lift-Tone Mon-Wed Cardio', 'Heart Disease', 'credit card', 35, to_date('01-03-2024', 'dd-mm-yyyy'), 157283500);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'High Blood Pressure', 'credit card', 40, to_date('02-05-2024', 'dd-mm-yyyy'), 988561837);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'Injuries', 'coupon', 92, to_date('06-05-2024', 'dd-mm-yyyy'), 982111666);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Zumba  Mon-Wed Body Sculpt', 'Injuries', 'cash', 18, to_date('11-04-2024', 'dd-mm-yyyy'), 635962481);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed Zumba ', 'Injuries', 'cash', 65, to_date('12-05-2024', 'dd-mm-yyyy'), 366207701);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'Heart Disease', 'cash', 96, to_date('11-05-2024', 'dd-mm-yyyy'), 552865242);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Heart Disease', 'coupon', 19, to_date('06-03-2024', 'dd-mm-yyyy'), 350892056);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'Injuries', 'credit card', 97, to_date('19-03-2024', 'dd-mm-yyyy'), 548380542);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'Heart Disease', 'coupon', 74, to_date('20-05-2024', 'dd-mm-yyyy'), 464739079);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'High Blood Pressure', 'cash', 80, to_date('03-05-2024', 'dd-mm-yyyy'), 521005306);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Injuries', 'coupon', 51, to_date('24-02-2024', 'dd-mm-yyyy'), 779786218);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'cash', 58, to_date('14-04-2024', 'dd-mm-yyyy'), 621549352);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Lift-Tone', 'Heart Disease', 'coupon', 22, to_date('17-02-2024', 'dd-mm-yyyy'), 842553885);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'Full Health', 'coupon', 95, to_date('22-02-2024', 'dd-mm-yyyy'), 134275795);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'coupon', 53, to_date('01-01-2024', 'dd-mm-yyyy'), 399425803);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'coupon', 41, to_date('11-05-2024', 'dd-mm-yyyy'), 375971023);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'High Blood Pressure', 'credit card', 62, to_date('08-05-2024', 'dd-mm-yyyy'), 351195569);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'coupon', 81, to_date('06-01-2024', 'dd-mm-yyyy'), 542198095);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 89, to_date('20-01-2024', 'dd-mm-yyyy'), 628287659);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'cash', 96, to_date('24-05-2024', 'dd-mm-yyyy'), 204342963);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'cash', 45, to_date('26-03-2024', 'dd-mm-yyyy'), 540996908);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Heart Disease', 'coupon', 91, to_date('17-02-2024', 'dd-mm-yyyy'), 992910786);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Full Health', 'credit card', 85, to_date('02-03-2024', 'dd-mm-yyyy'), 188553765);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Cardio Mon-Wed Spinning', 'Injuries', 'credit card', 87, to_date('02-03-2024', 'dd-mm-yyyy'), 707467033);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Full Health', 'credit card', 73, to_date('23-05-2024', 'dd-mm-yyyy'), 861976871);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Body Sculpt', 'Heart Disease', 'cash', 34, to_date('04-04-2024', 'dd-mm-yyyy'), 938379550);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'Injuries', 'credit card', 40, to_date('06-03-2024', 'dd-mm-yyyy'), 410879352);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'cash', 96, to_date('17-03-2024', 'dd-mm-yyyy'), 404616118);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Injuries', 'coupon', 57, to_date('02-02-2024', 'dd-mm-yyyy'), 764516309);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'High Blood Pressure', 'cash', 91, to_date('11-03-2024', 'dd-mm-yyyy'), 757733421);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Injuries', 'coupon', 83, to_date('06-02-2024', 'dd-mm-yyyy'), 144149414);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Heart Disease', 'cash', 32, to_date('12-05-2024', 'dd-mm-yyyy'), 988123159);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 69, to_date('09-04-2024', 'dd-mm-yyyy'), 66242318);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Lift-Tone', 'Injuries', 'credit card', 81, to_date('29-03-2024', 'dd-mm-yyyy'), 936296296);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'cash', 48, to_date('15-03-2024', 'dd-mm-yyyy'), 373958066);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'coupon', 88, to_date('20-05-2024', 'dd-mm-yyyy'), 367648866);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Cardio', 'Heart Disease', 'credit card', 37, to_date('26-01-2024', 'dd-mm-yyyy'), 694288312);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'coupon', 14, to_date('15-02-2024', 'dd-mm-yyyy'), 974693044);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Pilates', 'Full Health', 'cash', 19, to_date('05-02-2024', 'dd-mm-yyyy'), 921773204);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'Injuries', 'credit card', 59, to_date('24-02-2024', 'dd-mm-yyyy'), 707467033);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Injuries', 'credit card', 67, to_date('04-04-2024', 'dd-mm-yyyy'), 387031674);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Lift-Tone', 'Injuries', 'coupon', 33, to_date('17-04-2024', 'dd-mm-yyyy'), 328947614);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Injuries', 'credit card', 42, to_date('11-01-2024', 'dd-mm-yyyy'), 510896901);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'coupon', 28, to_date('18-04-2024', 'dd-mm-yyyy'), 178340617);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Cardio Mon-Wed Spinning', 'High Blood Pressure', 'cash', 18, to_date('15-03-2024', 'dd-mm-yyyy'), 273730719);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'High Blood Pressure', 'cash', 70, to_date('08-02-2024', 'dd-mm-yyyy'), 88434151);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed Lift-Tone', 'Heart Disease', 'coupon', 37, to_date('10-01-2024', 'dd-mm-yyyy'), 451950079);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed Lift-Tone', 'Heart Disease', 'credit card', 80, to_date('04-02-2024', 'dd-mm-yyyy'), 381474529);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'cash', 50, to_date('13-03-2024', 'dd-mm-yyyy'), 25576901);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'coupon', 14, to_date('15-05-2024', 'dd-mm-yyyy'), 286359632);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'High Blood Pressure', 'coupon', 77, to_date('19-01-2024', 'dd-mm-yyyy'), 182203875);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'Injuries', 'coupon', 95, to_date('14-02-2024', 'dd-mm-yyyy'), 976071851);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Heart Disease', 'cash', 82, to_date('13-01-2024', 'dd-mm-yyyy'), 281704629);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'coupon', 24, to_date('20-05-2024', 'dd-mm-yyyy'), 367648866);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Spinning Mon-Wed Spinning', 'Injuries', 'coupon', 14, to_date('21-05-2024', 'dd-mm-yyyy'), 91717809);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Pilates', 'Full Health', 'coupon', 35, to_date('13-03-2024', 'dd-mm-yyyy'), 441545484);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Lift-Tone', 'High Blood Pressure', 'credit card', 48, to_date('13-03-2024', 'dd-mm-yyyy'), 314721452);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Injuries', 'credit card', 64, to_date('18-02-2024', 'dd-mm-yyyy'), 153157217);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'Injuries', 'cash', 68, to_date('31-03-2024', 'dd-mm-yyyy'), 347409056);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Lift-Tone', 'Injuries', 'coupon', 43, to_date('09-02-2024', 'dd-mm-yyyy'), 735014216);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'cash', 96, to_date('05-02-2024', 'dd-mm-yyyy'), 984798679);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'High Blood Pressure', 'coupon', 96, to_date('25-02-2024', 'dd-mm-yyyy'), 910834121);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Injuries', 'credit card', 73, to_date('15-03-2024', 'dd-mm-yyyy'), 150991526);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Pilates', 'High Blood Pressure', 'credit card', 15, to_date('16-05-2024', 'dd-mm-yyyy'), 285817671);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Cardio', 'Full Health', 'credit card', 42, to_date('05-02-2024', 'dd-mm-yyyy'), 248130758);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'coupon', 97, to_date('18-03-2024', 'dd-mm-yyyy'), 633621883);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'Full Health', 'coupon', 43, to_date('17-01-2024', 'dd-mm-yyyy'), 103181861);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'cash', 95, to_date('30-03-2024', 'dd-mm-yyyy'), 320952651);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Lift-Tone', 'Heart Disease', 'coupon', 50, to_date('13-03-2024', 'dd-mm-yyyy'), 510896901);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'credit card', 50, to_date('04-01-2024', 'dd-mm-yyyy'), 332700112);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed ''HIIT', 'Injuries', 'coupon', 64, to_date('27-01-2024', 'dd-mm-yyyy'), 72211924);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'High Blood Pressure', 'cash', 41, to_date('12-02-2024', 'dd-mm-yyyy'), 891605799);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'cash', 51, to_date('20-02-2024', 'dd-mm-yyyy'), 982111666);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'High Blood Pressure', 'cash', 16, to_date('20-04-2024', 'dd-mm-yyyy'), 504840339);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Spinning Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'credit card', 55, to_date('12-03-2024', 'dd-mm-yyyy'), 165021958);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'Injuries', 'credit card', 37, to_date('08-05-2024', 'dd-mm-yyyy'), 336899848);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'Injuries', 'credit card', 51, to_date('04-02-2024', 'dd-mm-yyyy'), 367648866);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Spinning', 'High Blood Pressure', 'credit card', 92, to_date('21-01-2024', 'dd-mm-yyyy'), 89807477);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 67, to_date('25-01-2024', 'dd-mm-yyyy'), 412606339);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Zumba ', 'Full Health', 'credit card', 19, to_date('06-03-2024', 'dd-mm-yyyy'), 150991526);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Zumba ', 'Full Health', 'credit card', 34, to_date('18-01-2024', 'dd-mm-yyyy'), 94530323);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Zumba ', 'Injuries', 'coupon', 17, to_date('10-01-2024', 'dd-mm-yyyy'), 730695553);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed Cardio', 'Full Health', 'credit card', 88, to_date('31-03-2024', 'dd-mm-yyyy'), 248130758);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Heart Disease', 'cash', 29, to_date('22-02-2024', 'dd-mm-yyyy'), 130427278);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Cardio', 'High Blood Pressure', 'credit card', 61, to_date('24-02-2024', 'dd-mm-yyyy'), 636989011);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'coupon', 49, to_date('08-05-2024', 'dd-mm-yyyy'), 115386460);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Lift-Tone Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'coupon', 52, to_date('21-05-2024', 'dd-mm-yyyy'), 633621883);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'Injuries', 'credit card', 28, to_date('02-04-2024', 'dd-mm-yyyy'), 671524175);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'coupon', 61, to_date('09-02-2024', 'dd-mm-yyyy'), 182203875);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'High Blood Pressure', 'cash', 19, to_date('14-03-2024', 'dd-mm-yyyy'), 186971826);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'High Blood Pressure', 'cash', 49, to_date('12-01-2024', 'dd-mm-yyyy'), 428693989);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'coupon', 40, to_date('07-02-2024', 'dd-mm-yyyy'), 725658881);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed ''HIIT', 'High Blood Pressure', 'coupon', 65, to_date('11-01-2024', 'dd-mm-yyyy'), 735014216);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Full Health', 'credit card', 93, to_date('14-03-2024', 'dd-mm-yyyy'), 881119603);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'cash', 39, to_date('21-01-2024', 'dd-mm-yyyy'), 201957512);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Heart Disease', 'credit card', 22, to_date('28-03-2024', 'dd-mm-yyyy'), 602155382);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Zumba ', 'Injuries', 'cash', 51, to_date('27-03-2024', 'dd-mm-yyyy'), 239567444);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'credit card', 48, to_date('18-02-2024', 'dd-mm-yyyy'), 919189920);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'coupon', 27, to_date('28-04-2024', 'dd-mm-yyyy'), 858396505);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Cardio', 'Full Health', 'cash', 60, to_date('12-05-2024', 'dd-mm-yyyy'), 645557313);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'High Blood Pressure', 'coupon', 62, to_date('01-03-2024', 'dd-mm-yyyy'), 538284120);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed Spinning', 'Heart Disease', 'credit card', 92, to_date('22-03-2024', 'dd-mm-yyyy'), 224772173);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Zumba  Mon-Wed Zumba ', 'Injuries', 'cash', 95, to_date('17-05-2024', 'dd-mm-yyyy'), 268184898);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'Full Health', 'credit card', 35, to_date('28-04-2024', 'dd-mm-yyyy'), 675785571);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Spinning Mon-Wed Zumba ', 'High Blood Pressure', 'credit card', 19, to_date('01-04-2024', 'dd-mm-yyyy'), 39888125);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue HIIT Mon-Wed Cardio', 'Chronic Respiratory Conditions', 'credit card', 17, to_date('29-01-2024', 'dd-mm-yyyy'), 629006255);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Pilates', 'Injuries', 'cash', 25, to_date('30-04-2024', 'dd-mm-yyyy'), 706388337);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Full Health', 'credit card', 48, to_date('18-05-2024', 'dd-mm-yyyy'), 91717809);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Full Health', 'credit card', 62, to_date('15-01-2024', 'dd-mm-yyyy'), 143450646);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Body Sculpt Mon-Wed Pilates', 'Full Health', 'credit card', 76, to_date('11-01-2024', 'dd-mm-yyyy'), 504840339);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Spinning Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 71, to_date('07-01-2024', 'dd-mm-yyyy'), 949209198);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed ''HIIT', 'Heart Disease', 'coupon', 48, to_date('31-03-2024', 'dd-mm-yyyy'), 123980403);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 75, to_date('25-02-2024', 'dd-mm-yyyy'), 681776145);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Cardio Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'credit card', 20, to_date('11-02-2024', 'dd-mm-yyyy'), 193732741);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Zumba  Mon-Wed Zumba ', 'Heart Disease', 'coupon', 39, to_date('07-05-2024', 'dd-mm-yyyy'), 144114535);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Chronic Respiratory Conditions', 'coupon', 58, to_date('15-03-2024', 'dd-mm-yyyy'), 541349659);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Injuries', 'coupon', 80, to_date('17-01-2024', 'dd-mm-yyyy'), 29780120);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'Chronic Respiratory Conditions', 'cash', 20, to_date('15-04-2024', 'dd-mm-yyyy'), 370343515);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'cash', 25, to_date('02-02-2024', 'dd-mm-yyyy'), 894465652);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Cardio', 'Injuries', 'cash', 26, to_date('11-03-2024', 'dd-mm-yyyy'), 568933983);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Spinning Mon-Wed ''HIIT', 'Full Health', 'cash', 74, to_date('02-01-2024', 'dd-mm-yyyy'), 976071851);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Injuries', 'coupon', 26, to_date('26-03-2024', 'dd-mm-yyyy'), 76725560);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Spinning Mon-Wed Body Sculpt', 'High Blood Pressure', 'coupon', 60, to_date('24-01-2024', 'dd-mm-yyyy'), 434146054);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Spinning', 'Chronic Respiratory Conditions', 'coupon', 18, to_date('01-03-2024', 'dd-mm-yyyy'), 84279082);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'Full Health', 'coupon', 46, to_date('03-03-2024', 'dd-mm-yyyy'), 573776102);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Spinning Mon-Wed Body Sculpt', 'Injuries', 'coupon', 49, to_date('10-01-2024', 'dd-mm-yyyy'), 651173695);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Pilates Mon-Wed ''HIIT', 'Full Health', 'cash', 46, to_date('03-01-2024', 'dd-mm-yyyy'), 621394627);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Lift-Tone', 'Full Health', 'credit card', 41, to_date('18-01-2024', 'dd-mm-yyyy'), 116443607);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Spinning', 'Injuries', 'coupon', 38, to_date('11-03-2024', 'dd-mm-yyyy'), 817112047);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed ''HIIT', 'Heart Disease', 'credit card', 90, to_date('01-01-2024', 'dd-mm-yyyy'), 446464107);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'Injuries', 'cash', 60, to_date('01-01-2024', 'dd-mm-yyyy'), 541349659);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed Zumba ', 'Injuries', 'cash', 27, to_date('17-02-2024', 'dd-mm-yyyy'), 950590951);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'credit card', 53, to_date('13-04-2024', 'dd-mm-yyyy'), 651173695);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Cardio Mon-Wed Cardio', 'Full Health', 'credit card', 49, to_date('08-04-2024', 'dd-mm-yyyy'), 440550908);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'High Blood Pressure', 'cash', 78, to_date('06-03-2024', 'dd-mm-yyyy'), 88434151);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'credit card', 54, to_date('13-04-2024', 'dd-mm-yyyy'), 43126911);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'Full Health', 'cash', 71, to_date('14-02-2024', 'dd-mm-yyyy'), 706388337);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'High Blood Pressure', 'coupon', 46, to_date('26-03-2024', 'dd-mm-yyyy'), 364003048);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'credit card', 79, to_date('19-03-2024', 'dd-mm-yyyy'), 394381863);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'High Blood Pressure', 'coupon', 45, to_date('24-05-2024', 'dd-mm-yyyy'), 773097313);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'credit card', 15, to_date('18-05-2024', 'dd-mm-yyyy'), 855737641);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'credit card', 46, to_date('23-02-2024', 'dd-mm-yyyy'), 29780120);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'Injuries', 'credit card', 82, to_date('11-04-2024', 'dd-mm-yyyy'), 940153696);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Full Health', 'cash', 37, to_date('15-01-2024', 'dd-mm-yyyy'), 988216871);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Zumba  Mon-Wed Lift-Tone', 'Heart Disease', 'credit card', 86, to_date('24-01-2024', 'dd-mm-yyyy'), 217841071);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Chronic Respiratory Conditions', 'credit card', 59, to_date('13-04-2024', 'dd-mm-yyyy'), 217984194);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Injuries', 'credit card', 43, to_date('29-02-2024', 'dd-mm-yyyy'), 454145649);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Zumba ', 'Injuries', 'credit card', 21, to_date('26-02-2024', 'dd-mm-yyyy'), 360274647);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Body Sculpt', 'Injuries', 'coupon', 86, to_date('31-01-2024', 'dd-mm-yyyy'), 947865125);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'High Blood Pressure', 'coupon', 75, to_date('23-02-2024', 'dd-mm-yyyy'), 599267960);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Cardio Mon-Wed Pilates', 'High Blood Pressure', 'coupon', 35, to_date('22-04-2024', 'dd-mm-yyyy'), 17535897);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Pilates Mon-Wed Pilates', 'Injuries', 'cash', 96, to_date('18-05-2024', 'dd-mm-yyyy'), 675785571);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue HIIT Mon-Wed Body Sculpt', 'Injuries', 'credit card', 66, to_date('03-04-2024', 'dd-mm-yyyy'), 347409056);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Cardio Mon-Wed Zumba ', 'High Blood Pressure', 'coupon', 63, to_date('05-02-2024', 'dd-mm-yyyy'), 123980403);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'Injuries', 'cash', 23, to_date('05-03-2024', 'dd-mm-yyyy'), 278701404);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Injuries', 'cash', 14, to_date('14-05-2024', 'dd-mm-yyyy'), 694288312);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'credit card', 53, to_date('12-02-2024', 'dd-mm-yyyy'), 418865652);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed ''HIIT', 'Injuries', 'cash', 42, to_date('13-03-2024', 'dd-mm-yyyy'), 541349659);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Chronic Respiratory Conditions', 'coupon', 97, to_date('05-02-2024', 'dd-mm-yyyy'), 974885124);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Lift-Tone', 'Injuries', 'coupon', 80, to_date('18-05-2024', 'dd-mm-yyyy'), 84279082);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Spinning', 'Heart Disease', 'coupon', 56, to_date('15-05-2024', 'dd-mm-yyyy'), 965564108);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Lift-Tone Mon-Wed Cardio', 'Injuries', 'credit card', 54, to_date('21-04-2024', 'dd-mm-yyyy'), 590577221);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Cardio', 'Full Health', 'cash', 48, to_date('17-02-2024', 'dd-mm-yyyy'), 449179265);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed Body Sculpt', 'Injuries', 'credit card', 59, to_date('01-04-2024', 'dd-mm-yyyy'), 872264579);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Zumba  Mon-Wed Pilates', 'Injuries', 'coupon', 22, to_date('29-02-2024', 'dd-mm-yyyy'), 48591713);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue HIIT Mon-Wed Pilates', 'High Blood Pressure', 'credit card', 25, to_date('25-02-2024', 'dd-mm-yyyy'), 121399588);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Pilates Mon-Wed ''HIIT', 'Chronic Respiratory Conditions', 'coupon', 83, to_date('07-05-2024', 'dd-mm-yyyy'), 394381863);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Cardio Mon-Wed ''HIIT', 'Injuries', 'coupon', 47, to_date('04-01-2024', 'dd-mm-yyyy'), 89569439);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Basic Membership', 'Sun-Tue Body Sculpt Mon-Wed Lift-Tone', 'Injuries', 'coupon', 70, to_date('05-03-2024', 'dd-mm-yyyy'), 289127380);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Body Sculpt Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 47, to_date('16-04-2024', 'dd-mm-yyyy'), 636989011);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Personal Training Membership', 'Sun-Tue Lift-Tone Mon-Wed Spinning', 'Full Health', 'cash', 23, to_date('19-02-2024', 'dd-mm-yyyy'), 843698732);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Premium Membership', 'Sun-Tue Lift-Tone Mon-Wed ''HIIT', 'Heart Disease', 'credit card', 33, to_date('17-02-2024', 'dd-mm-yyyy'), 920369378);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue HIIT Mon-Wed ''HIIT', 'High Blood Pressure', 'cash', 66, to_date('08-05-2024', 'dd-mm-yyyy'), 926205546);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Family Membership', 'Sun-Tue Body Sculpt Mon-Wed Cardio', 'Full Health', 'cash', 44, to_date('30-03-2024', 'dd-mm-yyyy'), 412606339);
+
+insert into HADASNOA.TRAINEE (SUBSCRIPTION, TRAINING_PLAN, HEALTH, PAYMENT_DETAILS, AGE, JOINING_DATE, PERSON_ID)
+values ('Standard Membership', 'Sun-Tue Spinning Mon-Wed Pilates', 'High Blood Pressure', 'coupon', 70, to_date('19-02-2024', 'dd-mm-yyyy'), 540996908);
+
+commit;

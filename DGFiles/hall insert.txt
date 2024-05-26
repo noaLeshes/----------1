@@ -1,0 +1,301 @@
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (94, 'Zumba 13:00 Body Sculpt16:00', 1, 11);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (21, 'Pilates14:00 Lift and Tone19:00', 2, 39);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (63, 'Zumba 10:00 Pilates19:00', 3, 43);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (62, 'HIIT Fit12:00 Body Sculpt15:00', 4, 41);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (97, 'Body Sculpt10:00 Body Sculpt16:00', 5, 25);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (65, 'Spinning11:00 Zumba 17:00', 6, 31);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (69, 'Zumba 14:00 Lift and Tone19:00', 7, 15);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (79, 'Dance Cardio11:00 Spinning17:00', 8, 40);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (81, 'Lift and Tone11:00 Dance Cardio19:00', 9, 46);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (54, 'Zumba 10:00 Lift and Tone15:00', 10, 13);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (31, 'Body Sculpt13:00 Zumba 16:00', 11, 29);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (30, 'Body Sculpt13:00 Pilates15:00', 12, 27);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (60, 'Dance Cardio13:00 HIIT Fit16:00', 13, 32);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (93, 'Body Sculpt11:00 Dance Cardio18:00', 14, 19);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (94, 'HIIT Fit10:00 HIIT Fit15:00', 15, 51);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (30, 'Pilates11:00 Lift and Tone16:00', 16, 45);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (57, 'HIIT Fit12:00 HIIT Fit15:00', 17, 24);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (77, 'Pilates11:00 Dance Cardio15:00', 18, 28);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (30, 'Zumba 13:00 Pilates17:00', 19, 38);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (62, 'Pilates10:00 Lift and Tone19:00', 20, 32);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (51, 'Body Sculpt13:00 HIIT Fit17:00', 21, 25);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (89, 'Spinning12:00 Lift and Tone16:00', 22, 7);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (73, 'Zumba 12:00 Spinning17:00', 23, 1);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (78, 'Body Sculpt11:00 Pilates17:00', 24, 11);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (54, 'HIIT Fit11:00 Spinning17:00', 25, 14);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (84, 'Spinning14:00 Dance Cardio15:00', 26, 24);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (23, 'Body Sculpt10:00 Pilates16:00', 27, 7);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (26, 'Body Sculpt12:00 Lift and Tone16:00', 28, 46);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (52, 'Zumba 11:00 Spinning16:00', 29, 16);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (60, 'Dance Cardio10:00 Zumba 18:00', 30, 15);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (85, 'Body Sculpt11:00 Lift and Tone17:00', 31, 24);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (43, 'Lift and Tone12:00 Pilates17:00', 32, 7);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (92, 'Body Sculpt10:00 Lift and Tone18:00', 33, 50);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (67, 'Body Sculpt14:00 Lift and Tone19:00', 34, 31);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (61, 'Lift and Tone14:00 Lift and Tone16:00', 35, 1);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (86, 'Spinning10:00 Body Sculpt17:00', 36, 11);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (76, 'Zumba 12:00 Pilates16:00', 37, 16);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (69, 'Dance Cardio14:00 Body Sculpt18:00', 38, 41);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (44, 'Body Sculpt11:00 Pilates19:00', 39, 1);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (55, 'HIIT Fit13:00 HIIT Fit18:00', 40, 20);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (93, 'Lift and Tone13:00 Spinning17:00', 41, 39);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (42, 'Dance Cardio10:00 Dance Cardio16:00', 42, 51);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (20, 'Lift and Tone12:00 Body Sculpt19:00', 43, 12);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (82, 'Pilates12:00 HIIT Fit17:00', 44, 6);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (69, 'Spinning11:00 HIIT Fit15:00', 45, 31);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (91, 'Dance Cardio14:00 HIIT Fit16:00', 46, 43);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (88, 'Body Sculpt12:00 Dance Cardio15:00', 47, 2);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (97, 'Zumba 10:00 Lift and Tone16:00', 48, 35);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (25, 'Dance Cardio14:00 Lift and Tone15:00', 49, 15);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (73, 'Dance Cardio11:00 Dance Cardio17:00', 50, 28);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (73, 'Lift and Tone12:00 Zumba 17:00', 51, 19);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (43, 'Dance Cardio10:00 Zumba 15:00', 52, 15);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (60, 'Pilates11:00 HIIT Fit16:00', 53, 22);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (43, 'Pilates12:00 Zumba 15:00', 54, 12);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (79, 'HIIT Fit14:00 Zumba 15:00', 55, 27);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (24, 'Dance Cardio12:00 Pilates15:00', 56, 8);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (53, 'Spinning14:00 Zumba 19:00', 57, 43);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (55, 'Zumba 10:00 Zumba 16:00', 58, 34);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (29, 'Pilates11:00 Spinning17:00', 59, 34);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (45, 'HIIT Fit10:00 Body Sculpt18:00', 60, 12);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (62, 'Spinning11:00 Lift and Tone18:00', 61, 6);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (48, 'Pilates13:00 Lift and Tone19:00', 62, 7);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (71, 'Pilates12:00 Body Sculpt19:00', 63, 13);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (81, 'Lift and Tone10:00 Zumba 15:00', 64, 51);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (35, 'Lift and Tone13:00 Dance Cardio18:00', 65, 16);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (64, 'HIIT Fit11:00 Pilates19:00', 66, 43);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (44, 'Spinning14:00 Dance Cardio16:00', 67, 9);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (79, 'Lift and Tone12:00 Lift and Tone16:00', 68, 38);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (57, 'Spinning13:00 Dance Cardio19:00', 69, 8);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (60, 'Body Sculpt11:00 Pilates18:00', 70, 25);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (55, 'Lift and Tone13:00 Lift and Tone18:00', 71, 41);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (32, 'Pilates11:00 Dance Cardio15:00', 72, 1);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (73, 'HIIT Fit13:00 HIIT Fit16:00', 73, 16);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (57, 'Dance Cardio11:00 Body Sculpt18:00', 74, 10);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (39, 'Zumba 10:00 Body Sculpt17:00', 75, 41);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (74, 'Spinning13:00 HIIT Fit18:00', 76, 26);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (63, 'Body Sculpt14:00 Pilates16:00', 77, 16);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (46, 'HIIT Fit12:00 Spinning18:00', 78, 36);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (22, 'Zumba 10:00 Zumba 17:00', 79, 34);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (79, 'HIIT Fit12:00 Pilates17:00', 80, 9);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (98, 'Spinning11:00 Spinning17:00', 81, 14);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (62, 'Body Sculpt14:00 Zumba 16:00', 82, 50);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (94, 'Pilates13:00 Pilates19:00', 83, 17);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (87, 'Dance Cardio12:00 HIIT Fit16:00', 84, 35);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (39, 'Zumba 12:00 Pilates18:00', 85, 31);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (99, 'Dance Cardio13:00 Lift and Tone16:00', 86, 5);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (32, 'Lift and Tone11:00 Pilates16:00', 87, 13);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (77, 'Pilates13:00 Body Sculpt17:00', 88, 9);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (91, 'Lift and Tone12:00 Spinning15:00', 89, 19);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (37, 'Lift and Tone14:00 Spinning19:00', 90, 14);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (20, 'Spinning14:00 Dance Cardio19:00', 91, 29);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (80, 'Body Sculpt14:00 Dance Cardio15:00', 92, 21);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (27, 'Spinning13:00 Body Sculpt17:00', 93, 24);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (51, 'HIIT Fit14:00 Dance Cardio15:00', 94, 28);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (33, 'Body Sculpt13:00 HIIT Fit16:00', 95, 49);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (43, 'Spinning13:00 HIIT Fit17:00', 96, 2);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (72, 'Lift and Tone11:00 Lift and Tone15:00', 97, 37);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (61, 'Body Sculpt11:00 Spinning19:00', 98, 21);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (81, 'Dance Cardio12:00 Zumba 19:00', 99, 17);
+
+insert into HADASNOA.HALL (CAPACITY, SCHEDULE, HALL_NUMBER, GYM_NUMBER)
+values (32, 'Zumba 12:00 Spinning16:00', 100, 21);
+
+commit;

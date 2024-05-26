@@ -1,0 +1,451 @@
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 9116, '6 years', 495800226);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 11185, '16 years', 801085395);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9450, '25 years', 198104792);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 8408, '3 years', 568933983);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9311, '16 years', 579480884);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7302, '15 years', 223802756);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8157, '22 years', 842438188);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 8263, '5 years', 404616118);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 9032, '3 years', 152215435);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 8136, '18 years', 829031103);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 11270, '5 years', 992774372);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9342, '12 years', 451950079);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 7275, '17 years', 644624124);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 11829, '13 years', 882528796);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7128, '16 years', 482913375);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7817, '24 years', 278701404);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 10996, '13 years', 976071851);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 9380, '8 years', 972951644);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 9353, '17 years', 568076166);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 8814, '18 years', 949328161);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11023, '11 years', 330839612);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11837, '13 years', 947865125);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9027, '22 years', 725658881);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8593, '21 years', 394441189);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 9244, '13 years', 260388055);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7472, '19 years', 741535265);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 11888, '16 years', 671524175);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 11741, '18 years', 224772173);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 10794, '23 years', 495800226);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 8982, '4 years', 417554829);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 10516, '5 years', 448376914);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8356, '10 years', 434146054);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11242, '11 years', 91717809);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 10667, '7 years', 167917099);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 11516, '16 years', 248130758);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 11241, '12 years', 739730077);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 8779, '7 years', 988561837);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 10623, '15 years', 988561837);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 7712, '13 years', 157283500);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8080, '12 years', 38829226);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11407, '15 years', 330839612);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 7924, '14 years', 860618977);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 10331, '15 years', 446648459);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 8637, '3 years', 819619845);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 9123, '12 years', 166690748);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 9819, '20 years', 546060620);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 11189, '9 years', 366207701);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 11939, '4 years', 757733421);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 11112, '6 years', 540996908);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 8907, '8 years', 792630158);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9880, '23 years', 922954022);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 8457, '24 years', 853980163);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 7925, '12 years', 341491772);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 10335, '12 years', 793882523);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 10968, '14 years', 961698561);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 7307, '15 years', 217841071);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 8680, '13 years', 156036583);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8980, '16 years', 541349659);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11165, '13 years', 198104792);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 8427, '20 years', 188553765);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 8236, '7 years', 429548529);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11639, '22 years', 694288312);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 11526, '13 years', 39261873);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9769, '10 years', 116443607);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 9390, '15 years', 311230449);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9212, '14 years', 314721452);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 9636, '18 years', 428693989);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 9481, '10 years', 330839612);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 10060, '16 years', 350892056);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 8899, '4 years', 949987099);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 11795, '25 years', 64054988);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 8105, '4 years', 106359612);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 10473, '16 years', 860618977);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 11376, '17 years', 568933983);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 10203, '7 years', 949987099);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 10754, '16 years', 611561804);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 10354, '12 years', 455203976);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 7990, '23 years', 573776102);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 10155, '9 years', 639230686);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9304, '16 years', 887018922);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 11112, '17 years', 440550908);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 7945, '11 years', 541349659);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 7223, '11 years', 165021958);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9583, '21 years', 526289796);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 8028, '15 years', 268184898);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 10489, '18 years', 332700112);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 9446, '5 years', 780381836);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 8554, '25 years', 100888066);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7444, '17 years', 624776728);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 7099, '19 years', 882671374);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 9512, '21 years', 992910786);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 11510, '11 years', 526289796);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 8947, '17 years', 636989011);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 8675, '18 years', 273730719);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 11955, '17 years', 572457673);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 9250, '15 years', 470115593);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 7560, '17 years', 482913375);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7719, '12 years', 622710490);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 10334, '18 years', 435490677);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 10279, '23 years', 103181861);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 10928, '12 years', 513708263);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 10531, '17 years', 72211924);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 9425, '12 years', 572457673);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 7986, '19 years', 881119603);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11504, '14 years', 94530323);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 9389, '25 years', 537871085);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 7407, '16 years', 973430375);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7838, '8 years', 680741899);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 8739, '14 years', 482913375);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 9742, '7 years', 949209198);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 8052, '16 years', 453388492);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 9563, '6 years', 881119603);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11270, '6 years', 94530323);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 7395, '15 years', 829806948);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 7906, '16 years', 66126371);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9339, '12 years', 843698732);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9104, '14 years', 965564108);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 10698, '17 years', 513708263);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 8485, '18 years', 320952651);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 11983, '20 years', 298510709);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 10810, '10 years', 16269226);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 7730, '25 years', 115738810);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 8455, '5 years', 642238011);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 8134, '17 years', 22608321);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 10700, '3 years', 973430375);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 8491, '23 years', 116443607);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 10826, '16 years', 281704629);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 11450, '17 years', 941326323);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 11025, '23 years', 121399588);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 7086, '22 years', 652621999);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 10132, '7 years', 926205546);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 10782, '11 years', 829806948);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Nutrition Coaching', 9155, '14 years', 415551056);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 8916, '16 years', 367648866);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Rehabilitation', 9629, '22 years', 938969949);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 7373, '25 years', 509609652);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 9772, '15 years', 412606339);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 7861, '12 years', 217841071);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 8469, '8 years', 165021958);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Weight Loss', 7040, '7 years', 764892479);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 7052, '12 years', 88847666);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Bodybuilding', 8471, '6 years', 541088236);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Strength Training', 8902, '8 years', 22608321);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 7364, '11 years', 974885124);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 11860, '25 years', 791276222);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Endurance Training', 8154, '18 years', 17535897);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Cardio Fitness', 8452, '3 years', 157283500);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 9875, '25 years', 392375337);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Yoga', 8928, '6 years', 299858273);
+
+insert into HADASNOA.COACH (SPECIALITY, SALARY, EXPERIENCE, PERSON_ID)
+values ('Pilates', 9359, '18 years', 410879352);
+
+commit;
